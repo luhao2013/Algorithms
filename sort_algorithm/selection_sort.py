@@ -15,4 +15,5 @@ def selection_sort(array):
 if __name__ == "__main__":
     testList = [1, 3, 5, 7, 2, 6, 25, 18, 13]
 
+    selection_sort(testList)
     print(testList)
