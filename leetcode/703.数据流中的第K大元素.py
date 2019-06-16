@@ -23,7 +23,7 @@ kthLargest.add(4);   // returns 8
 
 import heapq  # Python中标准库 heapq 就是小顶堆
 # 1.保存k个最大值 ---> 排序 时间复杂度 N*klog(k)
-# 2.优先队列，Min Heap size=k， 第k大的元素就永远在最上面
+# 2.优先队列，Min Heap size=k，第k大的元素就永远在最上面
 # 时间复杂度O(N*logk)  堆调整的复杂度为0(logk)
 
 
