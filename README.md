@@ -16,11 +16,18 @@
 
 - 逻辑简单，注重实现
 
-24 [两两交换链表中的节点 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/24.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.py)
+  24 [两两交换链表中的节点 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/24.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.py)
 
-141 [环形链表 简单](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.py>) 解决方法：集合；快慢指针
+  25 [K个一组反转列表 困难](https://github.com/luhao2013/Algorithms/blob/master/leetcode/25.K%E4%B8%AA%E4%B8%80%E7%BB%84%E5%8F%8D%E8%BD%AC%E5%88%97%E8%A1%A8.py) 解决方法：尾插法
+
+141 [环形链表 简单](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.py>) 解决方法：集合，即哈希表；快慢指针
+
+142 [环形链表2 中等](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A82.py>)
 
 206  [反转链表 简单](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.py>) 解决方法：迭代：双指针；递归
+
+##### 堆栈
+  24 [有效的括号 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.py)
 
 ##### 优先队列
 
