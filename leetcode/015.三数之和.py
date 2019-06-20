@@ -36,8 +36,7 @@ class Solution(object):
         # 2. a+b+c=0, 枚举完a和b之后，只要查询-(a+b)是否在set里面就行，这样就相当于两重循环
         # O(N^2)
 
-        # 3. 先进行快排O(NlogN), 确定a，b与c从两边向中间夹
-        # a+b+c>0, c左移；a+b+c<0, b右移
+        # 3. 先进行快排O(NlogN), 巧妙的用哈希的方法
         if len(nums) < 3:
             return []
         nums.sort()
@@ -53,7 +52,9 @@ class Solution(object):
                     res.add((a, -a - c, c))
         return map(list, res)
 
-        # # 4. 一层枚举，空间复杂度更小
+        # # 4.先进行快排O(NlogN)，确定a，b与c从两边向中间夹
+        # a+b+c>0, c左移；a+b+c<0, b右移
+
         # # 存储结果列表
         # res_list = []
         # # 对nums列表进行排序，无返回值，排序直接改变nums顺序
