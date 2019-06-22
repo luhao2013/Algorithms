@@ -46,3 +46,20 @@
 018 [四数之和 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/018.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.py)
 
 242 [有效的字母异位词 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.py)
+
+##### 树、二叉树和二叉搜索树
+- 二叉树是链表有两个next指针，称为左右孩子
+- 完全二叉树是每个非叶子节点都有两个孩子
+- next节点都指回去的是图
+- 链表是特殊化的树，树是特殊化的图
+- 二叉搜索树（有序二叉树，排序二叉树）是指一颗空树或具有下列性质的二叉树 
+1. 左子树上所有节点均小于它的根节点的值
+2. 右子树上所有节点均大于它的根节点的值
+3. 递归地，左右子树也分别为二叉搜索树
+- 二叉搜索树平均搜索复杂度是O(logN),退化的只有左子树的复杂度为O(N)
+
+098 [验证二叉搜索树 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/098.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.py) 解决办法：中序遍历，升序；递归，左子树的最大值，右子树的最小值；
+
+235 [二叉搜索树的最近公共祖先 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/235.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.py)
+
+236 [二叉树的最近公共祖先 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/236.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.py)
