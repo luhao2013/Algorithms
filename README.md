@@ -15,10 +15,11 @@
 ##### 数组和链表
 
 - 逻辑简单，注重实现
+002 [两数相加 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/002.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.py)
 
- 24 [两两交换链表中的节点 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/24.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.py)
+024 [两两交换链表中的节点 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/24.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.py)
 
- 25 [K个一组反转列表 困难](https://github.com/luhao2013/Algorithms/blob/master/leetcode/25.K%E4%B8%AA%E4%B8%80%E7%BB%84%E5%8F%8D%E8%BD%AC%E5%88%97%E8%A1%A8.py) 解决方法：尾插法
+025 [K个一组反转列表 困难](https://github.com/luhao2013/Algorithms/blob/master/leetcode/25.K%E4%B8%AA%E4%B8%80%E7%BB%84%E5%8F%8D%E8%BD%AC%E5%88%97%E8%A1%A8.py) 解决方法：尾插法
 
 141 [环形链表 简单](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.py>) 解决方法：集合，即哈希表；快慢指针
 
@@ -27,7 +28,7 @@
 206  [反转链表 简单](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.py>) 解决方法：迭代：双指针；递归
 
 ##### 堆栈
-  24 [有效的括号 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.py)
+ 020 [有效的括号 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.py)
 
 ##### 优先队列
 
@@ -53,9 +54,9 @@
 - next节点都指回去的是图
 - 链表是特殊化的树，树是特殊化的图
 - 二叉搜索树（有序二叉树，排序二叉树）是指一颗空树或具有下列性质的二叉树 
-1. 左子树上所有节点均小于它的根节点的值
-2. 右子树上所有节点均大于它的根节点的值
-3. 递归地，左右子树也分别为二叉搜索树
+    1. 左子树上所有节点均小于它的根节点的值
+    2. 右子树上所有节点均大于它的根节点的值
+    3. 递归地，左右子树也分别为二叉搜索树
 - 二叉搜索树平均搜索复杂度是O(logN),退化的只有左子树的复杂度为O(N)
 
 098 [验证二叉搜索树 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/098.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.py) 解决办法：中序遍历，升序；递归，左子树的最大值，右子树的最小值；
@@ -63,3 +64,15 @@
 235 [二叉搜索树的最近公共祖先 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/235.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.py)
 
 236 [二叉树的最近公共祖先 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/236.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.py)
+
+##### 递归 & 分治
+050 [Pow(x,y) 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/050.Pow(x%2Cn).py) 解决方法：很有意思
+
+169 [求众数 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/169.%20%E6%B1%82%E4%BC%97%E6%95%B0%20%E7%AE%80%E5%8D%95.py)
+
+##### DFS & BFS
+102 [二叉树的层次遍历 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/102.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.py)
+
+104 [二叉树的最大深度 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.py) 解决方法：用BFS时，第一个遇到遇到的叶子节点是最小深度，最后到达叶子节点是最大深度
+
+111 [二叉树的最小深度 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/111.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.py) 
