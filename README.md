@@ -75,4 +75,38 @@
 
 104 [二叉树的最大深度 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.py) 解决方法：用BFS时，第一个遇到遇到的叶子节点是最小深度，最后到达叶子节点是最大深度
 
-111 [二叉树的最小深度 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/111.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.py) 
+111 [二叉树的最小深度 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/111.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.py)
+
+022 [括号生成 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/022.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.py) 解决方法：动态规划；递归回溯剪枝
+
+##### 回溯法(剪枝)
+- 通过搜索状态空间树来求问题的可行解或最优解的方法，搜索方法如DFS和BFS
+- 回溯法使用约束函数和限界函数统称为剪枝函数来压缩实际需要生成的状态空间树的节点数
+- 回溯法是比贪心法和动态规划更一般的方法
+- 使用剪枝函数的深度优先生成状态空间树中结点的求解方法称为回溯法
+- 广度优先生成结点，并使用剪枝函数的方法称为分支限界法
+
+036 [有效的数独 中等]()
+
+037 [解数独 困难]()
+
+051 [N皇后 困难](https://github.com/luhao2013/Algorithms/blob/master/leetcode/051.N%E7%9A%87%E5%90%8E.py)
+
+052 [N皇后II 困难]()
+
+##### 二分查找
+
+069 [x的平方根 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/069.x%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.py) 解决方法：二分法；牛顿迭代法
+
+##### Trie树
+- 即字典树，又称单词查找树或链树，是一种树形结构，是一种哈希树的变种。
+- 典型的应用是用于统计和排序大量的字符串（但不仅限于字符串），所以经常被搜索引擎系统用于文本词频统计。
+- 优点是：最大限度地减少无谓地字符串比较，查询效率比哈希表高。
+- 核心思想是空间换时间。利用字符串地公共前缀来降低查询时间的开销以达到提高效率的目的。
+- 边代表单词，节点代表前缀。
+
+208 [实现Trie(前缀树) 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/208.%E5%AE%9E%E7%8E%B0%20Trie%20(%E5%89%8D%E7%BC%80%E6%A0%91).py)
+
+097 [单词搜索 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/097.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.py) 解决方法：DFS+回溯
+
+212 [单词搜索2 困难](https://github.com/luhao2013/Algorithms/blob/master/leetcode/212.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A22.py)
