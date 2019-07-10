@@ -110,3 +110,12 @@
 097 [单词搜索 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/097.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.py) 解决方法：DFS+回溯
 
 212 [单词搜索2 困难](https://github.com/luhao2013/Algorithms/blob/master/leetcode/212.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A22.py)
+
+##### 位运算
+- 由于位运算直接对内存数据进行操作，不需要转成十进制，因此处理速度非常快
+
+191 [位1的个数 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/191.%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.py)
+
+231 [2的幂 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/231.2%E7%9A%84%E5%B9%82.py)
+
+338 [比特位计数 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0.py)
