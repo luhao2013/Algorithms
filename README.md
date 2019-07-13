@@ -59,6 +59,17 @@
     3. 递归地，左右子树也分别为二叉搜索树
 - 二叉搜索树平均搜索复杂度是O(logN),退化的只有左子树的复杂度为O(N)
 
+- 二叉树的遍历
+> 这里一定要理解递归的思想，这里的递归都是根右左三者先后顺序的嵌套,就是要将左子树右子树看成一个整体，这样才能
+理解递归的嵌套关系
+
+144 [二叉树的前序遍历 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/144.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.py)
+
+145 [二叉树的后序遍历 困难](https://github.com/luhao2013/Algorithms/blob/master/leetcode/145.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.py)
+
+094 [二叉树的中序遍历 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/094.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.py)
+
+
 098 [验证二叉搜索树 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/098.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.py) 解决办法：中序遍历，升序；递归，左子树的最大值，右子树的最小值；
 
 235 [二叉搜索树的最近公共祖先 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/235.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.py)
@@ -119,3 +130,21 @@
 231 [2的幂 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/231.2%E7%9A%84%E5%B9%82.py)
 
 338 [比特位计数 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0.py)
+
+052 [N皇后2 困难](https://github.com/luhao2013/Algorithms/blob/master/leetcode/052.N%E7%9A%87%E5%90%8E2.py)
+
+##### 动态规划
+- Dynamic Programming 这里的Programming规划就是递推
+1. 递推 (递归 + 记忆化)
+2. 状态的定义
+3. 状态转移方程
+4. 最优子结构
+
+- DP vs 回溯 vs 贪心
+1. 回溯（递归）-重复计算，没有最优子结构的时候，所有的可能不存在重复计算时候回溯就是最优的
+2. 贪心-永远局部最优
+3. DP-记录局部子结构/多种记录值，集上述两者之大成
+
+509 [斐波那契数 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.py)
+
+070 [爬楼梯 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/070.%E7%88%AC%E6%A5%BC%E6%A2%AF.py)
