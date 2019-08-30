@@ -14,7 +14,7 @@ def numberof1(n):
     while flag:
         if n & flag:
             count +=1
-        flag = flag << 1
+        flag = (flag << 1) & 0xffffffff
     return count
 
 # 解法2： n & n-1,最右边1会变为0
@@ -22,7 +22,7 @@ def numberof1(n):
 # 它左边的位不变，这样n和n-1与运算，相当于把最右边的1变为0
 def number_of_1(n):
     count = 0
-    while n:
+    while n & 0xffffffff:  # python不会溢出，所以把大于32为的都置为0
         count += 1
         n = n & (n-1)
     return count
