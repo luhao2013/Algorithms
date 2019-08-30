@@ -12,6 +12,8 @@ def insert_sort(array):
         for j in range(i-1, -1, -1):
             if array[j] < temp:
                 array[j+1] = array[j]   # 元素向后移一位
+                if j == 0:  # 前面的数字没有需要交换的
+                    array[j] = temp
             else:
                 array[j+1] = temp       # 上一个元素插入目标元素
                 break
