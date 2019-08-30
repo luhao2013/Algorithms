@@ -41,3 +41,35 @@ def PrintMatrixInCircle(numbers, col, row, start):
         for i in range(endY-1, start, -1):
             number = numbers[i][start]
             print(number)
+
+
+# 在牛客网的实现
+# -*- coding:utf-8 -*-
+class Solution:
+    # matrix类型为二维列表，需要返回列表
+    def printMatrix(self, matrix):
+        # write code here
+        max_row = len(matrix) - 1
+        max_col = len(matrix[0]) - 1
+        row = 0
+        col = 0
+        self.res = []
+        self.core(matrix, row, col, max_row, max_col)
+        return self.res
+
+    def core(self, matrix, row, col, max_row, max_col):
+        if row > max_row or col > max_col:
+            return
+
+        for c in range(col, max_col + 1):
+            self.res.append(matrix[row][c])
+        if row < max_row:  # 有可以打印的元素
+            for r in range(row + 1, max_row + 1):
+                self.res.append(matrix[r][max_col])
+        if row < max_row:  # 要考虑最上面的那行，不能是同一行
+            for c in range(max_col - 1, col - 1, -1):
+                self.res.append(matrix[max_row][c])
+        if col < max_col:  # 要考虑最右面的那一列。不能是同一列
+            for r in range(max_row - 1, row, -1):
+                self.res.append(matrix[r][col])
+        self.core(matrix, row + 1, col + 1, max_row - 1, max_col - 1)
