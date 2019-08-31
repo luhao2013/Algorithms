@@ -9,7 +9,7 @@ def my_permutation(s):
 
     def permutation(string):
         for i in string:
-            str_tem = string.replace(i, '')
+            str_tem = string.replace(i, '', 1)  # 不加1会把所有相同字母都替换
             str_set.append(i)
             if len(str_tem) > 0:
                 permutation(str_tem)
@@ -18,4 +18,4 @@ def my_permutation(s):
             str_set.pop()
     permutation(s)
     return ret
-print(my_permutation('abc'))
+print(my_permutation('aa'))
