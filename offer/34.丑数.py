@@ -3,7 +3,6 @@
 因为它包含质因子7。 习惯上我们把1当做是第一个丑数。求按从小到大的顺序的第N个丑数。
 """
 
-
 # -*- coding:utf-8 -*-
 class Solution:
     def GetUglyNumber_Solution(self, index):
