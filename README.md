@@ -219,3 +219,11 @@
 27 [二叉搜索树与双向链表](https://github.com/luhao2013/Algorithms/blob/master/offer/27.二叉搜索树与双向链表.py)
 
 28 [字符串的全排列](https://github.com/luhao2013/Algorithms/blob/master/offer/28.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%85%A8%E6%8E%92%E5%88%97.py)
+
+29 [数组中出现次数超过一半的数字](https://github.com/luhao2013/Algorithms/blob/master/offer/29.数组中出现次数超过一半的数字.py)
+
+30 []()
+
+31 [连续子数组的最大和](https://github.com/luhao2013/Algorithms/blob/master/offer/31.连续子数组的最大和.py)
+
+32 [从1到n整数中1出现的次数](https://github.com/luhao2013/Algorithms/blob/master/offer/32.%E4%BB%8E1%E5%88%B0n%E6%95%B4%E6%95%B0%E4%B8%AD1%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.py)
