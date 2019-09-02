@@ -227,3 +227,26 @@
 31 [连续子数组的最大和](https://github.com/luhao2013/Algorithms/blob/master/offer/31.连续子数组的最大和.py)
 
 32 [从1到n整数中1出现的次数](https://github.com/luhao2013/Algorithms/blob/master/offer/32.%E4%BB%8E1%E5%88%B0n%E6%95%B4%E6%95%B0%E4%B8%AD1%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.py)
+
+33 [把数组排成最小数](https://github.com/luhao2013/Algorithms/blob/master/offer/33.把数组排成最小数.py)
+
+34 [丑数](https://github.com/luhao2013/Algorithms/blob/master/offer/34.丑数.py)
+
+35 [第一个只出现一次的字符](https://github.com/luhao2013/Algorithms/blob/master/offer/35.%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.py)
+
+36 [数组中的逆序对](https://github.com/luhao2013/Algorithms/blob/master/offer/36.数组中的逆序对.py) 解决方法：归并排序 **
+
+37 [两个链表的第一个公共节点](https://github.com/luhao2013/Algorithms/blob/master/offer/37.两个链表的第一个公共节点.py)
+
+38 [数字在排序数组中出现的次数](https://github.com/luhao2013/Algorithms/blob/master/offer/38.数字在排序数组中出现的次数.py) 解决方法：二分搜索
+
+39 [二叉树的深度](https://github.com/luhao2013/Algorithms/blob/master/offer/39.二叉树的深度.py)
+
+39 [平衡二叉树](https://github.com/luhao2013/Algorithms/blob/master/offer/39.平衡二叉树.py)
+
+40 [数组中只出现一次的数字](https://github.com/luhao2013/Algorithms/blob/master/offer/40.数组中只出现一次的数字.py) **
+
+41 [和为S的连续正数序列](https://github.com/luhao2013/Algorithms/blob/master/offer/41.和为s的连续正数序列.py)
+
+41 [和为S的两个数字](https://github.com/luhao2013/Algorithms/blob/master/offer/41.和为S的两个数字.py)
+
