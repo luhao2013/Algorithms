@@ -18,7 +18,7 @@ def partition(array, left, right):
     value = array[left]
 
     while left < right:
-        while left < right and array[right] >= value:
+        while left < right and array[right] >= value:  # 判断大小的时候一定要有等号
             right -= 1
         array[left] = array[right]
         while left < right and array[left] <= value:

@@ -250,3 +250,18 @@
 
 41 [和为S的两个数字](https://github.com/luhao2013/Algorithms/blob/master/offer/41.和为S的两个数字.py)
 
+44 [扑克牌的顺子](https://github.com/luhao2013/Algorithms/blob/master/offer/44.扑克牌的顺子.py)
+
+45 [圆圈中最后剩下的数字](https://github.com/luhao2013/Algorithms/blob/master/offer/45.圆圈中最后剩下的数字.py) 用递推可以简单理解，但还是有些费解
+
+46 [求1到n的和](https://github.com/luhao2013/Algorithms/blob/master/offer/46.%E6%B1%821%E5%88%B0n%E7%9A%84%E5%92%8C.py)
+
+47 [不用加减乘除做加法](https://github.com/luhao2013/Algorithms/blob/master/offer/47.%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.py) python做需要考虑不会溢出的问题
+
+49 [把字符串转换成整数](https://github.com/luhao2013/Algorithms/blob/master/offer/49.%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0.py)
+
+51 [数组中重复的数字](https://github.com/luhao2013/Algorithms/blob/master/offer/51.数组中重复的数字.py)
+
+52 [构建乘积数组](https://github.com/luhao2013/Algorithms/blob/master/offer/52.%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.py)
+
+54 [表示数值的字符串](https://github.com/luhao2013/Algorithms/blob/master/offer/54.%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.py)

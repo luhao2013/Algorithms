@@ -37,6 +37,6 @@ class Solution:
         if head == None or head.next == None:
             return head
         p = self.reverseList(head.next)  # p一直不变，保存链尾也就是反转后的链头
-        head.next.next = head  # a ---> b <--- c
+        head.next.next = head  # a ---> b <--- c 现在处在b
         head.next = None
         return p
