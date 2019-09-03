@@ -267,3 +267,5 @@
 54 [表示数值的字符串](https://github.com/luhao2013/Algorithms/blob/master/offer/54.%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.py)
 
 55 [字符流中第一个不重复的字符](https://github.com/luhao2013/Algorithms/blob/master/offer/55.%E5%AD%97%E7%AC%A6%E6%B5%81%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6.py)
+
+67 [机器人的运动范围](https://github.com/luhao2013/Algorithms/blob/master/offer/67.%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.py)
