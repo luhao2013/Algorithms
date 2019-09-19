@@ -166,6 +166,24 @@
 ##### 并查集
 - 一般并查集用数组来实现，数组的初始值指向自己的下标，然后开始合并
 
+
+
+#### 题目列表
+
+|  \#    |  Title    |  Solution  | Difficulty | Notice |
+| :--: | :--: | :--: | :--: | :--: |
+| 1 | Two Sum | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/001.Two%20Sum..cpp>)  [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Easy |  |
+| 2 | Add Two Numbers | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/002.Add%20Two%20Numbers.cpp>) [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/002.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.py>) | Medium |  |
+| 3 | Longest Substring Without Repeating Characters | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/003.Longest%20Substring%20Without%20Repeating%20Characters.cpp>) [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/003.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py>) | Medium |  |
+| 4 |          Median of Two Sorted Arrays           | [C++]() [Python]([https://github.com/luhao2013/Algorithms/blob/master/leetcode/004.寻找两个有序数组的中位数.py](https://github.com/luhao2013/Algorithms/blob/master/leetcode/004.%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.py)) | Hard | 寻找最小的k\****\* |
+| 5 |         Longest Palindromic Substring          | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/005.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.py>) | Medium | 动态规划\**** |
+| 6 | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [C++]() [Python]([https://github.com/luhao2013/Algorithms/blob/master/leetcode/006.Z字形变换.py](https://github.com/luhao2013/Algorithms/blob/master/leetcode/006.Z%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.py)) | Medium | 找规律*** |
+| 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/007.%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.py>) | Easy | 注意溢出和负数 |
+| 8 |                                                | [C++]() [Python]() |  |  |
+| 9 |                                                | [C++]() [Python]() |  |  |
+
+
+
 ### 三、剑指offer
 03 [二维数组中的查找](https://github.com/luhao2013/Algorithms/blob/master/offer/03.%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.py)
 
