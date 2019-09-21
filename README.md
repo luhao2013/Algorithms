@@ -174,14 +174,27 @@
 | :--: | :--: | :--: | :--: | :--: |
 | 1 | Two Sum | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/001.Two%20Sum..cpp>)  [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Easy |  |
 | 2 | Add Two Numbers | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/002.Add%20Two%20Numbers.cpp>) [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/002.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.py>) | Medium |  |
-| 3 | Longest Substring Without Repeating Characters | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/003.Longest%20Substring%20Without%20Repeating%20Characters.cpp>) [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/003.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py>) | Medium |  |
+| 3 | Longest Substring Without Repeating Characters | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/003.Longest%20Substring%20Without%20Repeating%20Characters.cpp>) [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/003.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.py>) | Medium | *** |
 | 4 |          Median of Two Sorted Arrays           | [C++]() [Python]([https://github.com/luhao2013/Algorithms/blob/master/leetcode/004.寻找两个有序数组的中位数.py](https://github.com/luhao2013/Algorithms/blob/master/leetcode/004.%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.py)) | Hard | 寻找最小的k\****\* |
 | 5 |         Longest Palindromic Substring          | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/005.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.py>) | Medium | 动态规划\**** |
 | 6 | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [C++]() [Python]([https://github.com/luhao2013/Algorithms/blob/master/leetcode/006.Z字形变换.py](https://github.com/luhao2013/Algorithms/blob/master/leetcode/006.Z%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.py)) | Medium | 找规律*** |
 | 7 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/007.%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.py>) | Easy | 注意溢出和负数 |
-| 8 |                                                | [C++]() [Python]() |  |  |
-| 9 |                                                | [C++]() [Python]() |  |  |
-
+| 8 | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/008.%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0.py>) | Medium |  |
+| 9 | [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/009.%E5%9B%9E%E6%96%87%E6%95%B0.py>) | Easy |  |
+| 10 | [Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/) | [C++]() [Python]([https://github.com/luhao2013/Algorithms/blob/master/leetcode/010.正则表达式匹配.py](https://github.com/luhao2013/Algorithms/blob/master/leetcode/010.%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.py)) | Hard | 回溯 动态规划\**** |
+| 11 | [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/011.%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.py>) | Medium | 双指针法证明*** |
+| 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [C++]() [Python]([https://github.com/luhao2013/Algorithms/blob/master/leetcode/012.整数转罗马数字.py](https://github.com/luhao2013/Algorithms/blob/master/leetcode/012.%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97.py)) | Medium | 贪心法*** |
+| 13 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/013.%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.py>) | Easy | 字典*** |
+| 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/014.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.py>) | Easy | 官方题解** |
+| 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Medium | 快排+双指针**** |
+| 16 | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/016.%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Medium | 快排+双指针*** |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/017.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.py>) | Medium | 递归** 应该可以改成迭代 |
+| 18 |                                                | [C++]() [Python]() |  |  |
+| 19 |                                                | [C++]() [Python]() |  |  |
+| 20 |                                                | [C++]() [Python]() |  |  |
+| 21 |                                                | [C++]() [Python]() |  |  |
+| 22 |                                                | [C++]() [Python]() |  |  |
+|  |                                                | [C++]() [Python]() |  |  |
 
 
 ### 三、剑指offer
