@@ -51,7 +51,7 @@ n为长度
 子任务3: 无限制
 """
 
-
+# https://blog.csdn.net/weixin_43922043/article/details/89164552
 char = input()
 dp = [[0 for _ in range(3)] for _ in range(len(char) + 1)]
 Max = 1e9 + 7
