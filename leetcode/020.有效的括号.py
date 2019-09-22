@@ -50,6 +50,6 @@ class Solution(object):
         for c in s:
             if c not in character_map:  # 左括号入栈
                 stack.append(c)
-            elif not stack or character_map[c] != stack.pop():
+            elif not stack or character_map[c] != stack.pop():  # 直接比较pop出的优化时间
                 return False
         return not stack
