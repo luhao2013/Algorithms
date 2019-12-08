@@ -33,3 +33,40 @@ class Solution:
             prev.next, b.next, a.next = b, a, b.next
             prev = a
         return self.next
+
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def swapPairs(self, head: ListNode) -> ListNode:
+        dummy = ListNode(0)
+        dummy.next = head
+        pre = dummy
+        while pre.next and pre.next.next:
+            fast = pre.next.next
+            slow = pre.next
+            fast.next, slow.next = slow, fast.next
+            pre.next = fast
+            pre = slow
+        return dummy.next
+
+
+# 递归版本
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def swapPairs(self, head: ListNode) -> ListNode:
+        if not head or not head.next:
+            return head
+        next_node = head.next
+        head.next = self.swapPairs(head.next.next)
+        next_node.next = head
+        return next_node

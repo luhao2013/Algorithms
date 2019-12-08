@@ -189,12 +189,22 @@
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Medium | 快排+双指针**** |
 | 16 | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/016.%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Medium | 快排+双指针*** |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/017.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.py>) | Medium | 递归** 应该可以改成迭代 |
-| 18 |                                                | [C++]() [Python]() |  |  |
-| 19 |                                                | [C++]() [Python]() |  |  |
-| 20 |                                                | [C++]() [Python]() |  |  |
-| 21 |                                                | [C++]() [Python]() |  |  |
-| 22 |                                                | [C++]() [Python]() |  |  |
-|  |                                                | [C++]() [Python]() |  |  |
+| 18 | [4Sum](https://leetcode-cn.com/problems/4sum/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/018.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Medium | 固定两个+双指针*** |
+| 19 | [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/019.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.py>) | Medium | 双指针** |
+| 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/020.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.py>) | Easy | 堆* |
+| 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/021.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.py>) | Easy | 递归 迭代仍需练习 |
+| 22 | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/022.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.py>) | Medium | 数学归纳法 回溯\**** 复习 |
+| 23 | [Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [C++]() [Python]() | Hard |  |
+| 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/024.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.py>) | Medium | 递归版本很简洁优雅 |
+| 25 |                                                | [C++]() [Python]() |  |  |
+| 26 |                                                | [C++]() [Python]() |  |  |
+| 27 |                                                | [C++]() [Python]() |  |  |
+| 28 |                                                | [C++]() [Python]() |  |  |
+| 29 |                                                | [C++]() [Python]() |  |  |
+| 30 |                                                | [C++]() [Python]() |  |  |
+| 31 |                                                | [C++]() [Python]() |  |  |
+| 32 |                                                | [C++]() [Python]() |  |  |
+| 33 |                                                | [C++]() [Python]() |  |  |
 
 
 ### 三、剑指offer
@@ -300,3 +310,8 @@
 55 [字符流中第一个不重复的字符](https://github.com/luhao2013/Algorithms/blob/master/offer/55.%E5%AD%97%E7%AC%A6%E6%B5%81%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6.py)
 
 67 [机器人的运动范围](https://github.com/luhao2013/Algorithms/blob/master/offer/67.%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.py)
+
+
+
+### 四、牛客网
+[被三整除的子序列](https://github.com/luhao2013/Algorithms/blob/master/nowcoder/%E8%A2%AB%E4%B8%89%E6%95%B4%E9%99%A4%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97.py)
