@@ -196,7 +196,7 @@
 | 22 | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/022.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.py>) | Medium | 数学归纳法 回溯\**** 复习 |
 | 23 | [Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [C++]() [Python]() | Hard |  |
 | 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/024.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.py>) | Medium | 递归版本很简洁优雅 |
-| 25 |                                                | [C++]() [Python]() |  |  |
+| 25 | [Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/025.K%E4%B8%AA%E4%B8%80%E7%BB%84%E5%8F%8D%E8%BD%AC%E5%88%97%E8%A1%A8.py>) | Hard | 使用尾插法而不是头插法 |
 | 26 |                                                | [C++]() [Python]() |  |  |
 | 27 |                                                | [C++]() [Python]() |  |  |
 | 28 |                                                | [C++]() [Python]() |  |  |
