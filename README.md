@@ -200,7 +200,7 @@
 | 26 |                                                | [C++]() [Python]() |  |  |
 | 27 |                                                | [C++]() [Python]() |  |  |
 | 28 |                                                | [C++]() [Python]() |  |  |
-| 29 |                                                | [C++]() [Python]() |  |  |
+| 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [C++]() [Python]() | Medium |  |
 | 30 |                                                | [C++]() [Python]() |  |  |
 | 31 |                                                | [C++]() [Python]() |  |  |
 | 32 |                                                | [C++]() [Python]() |  |  |
