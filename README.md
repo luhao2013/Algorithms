@@ -90,6 +90,14 @@
 
 022 [括号生成 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/022.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.py) 解决方法：动态规划；递归回溯剪枝
 
+###### DFS
+|  \#    |  Title    |  Solution  | Difficulty | Notice |
+| :--: | :--: | :--: | :--: | :--: |
+| 46 | [Permutations](https://leetcode-cn.com/problems/permutations/) | [C++](https://github.com/luhao2013/Algorithms/blob/master/leetcode/046.%E5%85%A8%E6%8E%92%E5%88%97.cpp) [Python]() | Medium | DFS |
+| 47 | [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/047.%E5%85%A8%E6%8E%92%E5%88%972.cpp>) [Python]() | Medium | DFS |
+| 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/078.%E5%AD%90%E9%9B%86.cpp>) [Python]() | Medium | DFS |
+| 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/090.%E5%AD%90%E9%9B%862.cpp>) [Python]() | Medium | DFS |
+
 ##### 回溯法(剪枝)
 - 通过搜索状态空间树来求问题的可行解或最优解的方法，搜索方法如DFS和BFS
 - 回溯法使用约束函数和限界函数统称为剪枝函数来压缩实际需要生成的状态空间树的节点数
@@ -214,9 +222,14 @@
 | 32 |                                                | [C++]() [Python]() |  |  |
 | 33 |                                                | [C++]() [Python]() |  |  |
 | 34 |                                                | [C++]() [Python]() |  |  |
+| 46 | [Permutations](https://leetcode-cn.com/problems/permutations/) | [C++](https://github.com/luhao2013/Algorithms/blob/master/leetcode/046.%E5%85%A8%E6%8E%92%E5%88%97.cpp) [Python]() | Medium | DFS |
+| 47 | [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/047.%E5%85%A8%E6%8E%92%E5%88%972.cpp>) [Python]() | Medium | DFS |
+| 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/078.%E5%AD%90%E9%9B%86.cpp>) [Python]() | Medium | DFS |
+| 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/090.%E5%AD%90%E9%9B%862.cpp>) [Python]() | Medium | DFS |
+| 34 |                                                | [C++]() [Python]() |  |  |
 | 130 | [Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/130.%E5%8C%85%E5%9B%B4%E5%8C%BA%E5%9F%9F.cpp>) [Python]() | Medium | 并查集 |
 | 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.cpp>) [Python]() | Medium | 并查集 |
-| 305 | [Number of Islands 2](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/305.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%95%B0%E9%87%8F2.cpp>) [Python]() | Hard | 并查集 |
+| 305 | [Number of Islands 2](https://leetcode-cn.com/problems/number-of-islands-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/305.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%95%B0%E9%87%8F2.cpp>) [Python]() | Hard | 并查集 |
 
 
 ### 三、剑指offer
