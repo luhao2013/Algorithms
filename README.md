@@ -165,6 +165,14 @@
 
 ##### 并查集
 - 一般并查集用数组来实现，数组的初始值指向自己的下标，然后开始合并
+- 先将每一个点做为一类，然后开始合并
+- 最后得到森林，树的个数就是集合的数量
+
+|  \#    |  Title    |  Solution  | Difficulty | Notice |
+| :--: | :--: | :--: | :--: | :--: |
+| 130 | [Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/130.%E5%8C%85%E5%9B%B4%E5%8C%BA%E5%9F%9F.cpp>) [Python]() | Medium | 并查集 |
+| 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.cpp>) [Python]() | Medium | 并查集 |
+| 305 | [Number of Islands 2](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/305.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%95%B0%E9%87%8F2.cpp>) [Python]() | Hard | 并查集 |
 
 
 
@@ -205,6 +213,10 @@
 | 31 |                                                | [C++]() [Python]() |  |  |
 | 32 |                                                | [C++]() [Python]() |  |  |
 | 33 |                                                | [C++]() [Python]() |  |  |
+| 34 |                                                | [C++]() [Python]() |  |  |
+| 130 | [Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/130.%E5%8C%85%E5%9B%B4%E5%8C%BA%E5%9F%9F.cpp>) [Python]() | Medium | 并查集 |
+| 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.cpp>) [Python]() | Medium | 并查集 |
+| 305 | [Number of Islands 2](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/305.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%95%B0%E9%87%8F2.cpp>) [Python]() | Hard | 并查集 |
 
 
 ### 三、剑指offer
