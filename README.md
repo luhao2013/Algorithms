@@ -186,7 +186,7 @@
 | 12 | [Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/) | [C++]() [Python]([https://github.com/luhao2013/Algorithms/blob/master/leetcode/012.整数转罗马数字.py](https://github.com/luhao2013/Algorithms/blob/master/leetcode/012.%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97.py)) | Medium | 贪心法*** |
 | 13 | [Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/013.%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.py>) | Easy | 字典*** |
 | 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/014.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.py>) | Easy | 官方题解** |
-| 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Medium | 快排+双指针**** |
+| 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Medium | 快排+双指针\**** |
 | 16 | [3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/016.%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Medium | 快排+双指针*** |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/017.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.py>) | Medium | 递归** 应该可以改成迭代 |
 | 18 | [4Sum](https://leetcode-cn.com/problems/4sum/) | [C++]() [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/018.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.py>) | Medium | 固定两个+双指针*** |
@@ -200,7 +200,7 @@
 | 26 |                                                | [C++]() [Python]() |  |  |
 | 27 |                                                | [C++]() [Python]() |  |  |
 | 28 |                                                | [C++]() [Python]() |  |  |
-| 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [C++]() [Python]() | Medium |  |
+| 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/029.%20Divide%20Two%20Integers.cpp>) [Python](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/029.%20Divide%20Two%20Integers.py>) | Medium | 使用位运算，以及将除法分解\**** |
 | 30 |                                                | [C++]() [Python]() |  |  |
 | 31 |                                                | [C++]() [Python]() |  |  |
 | 32 |                                                | [C++]() [Python]() |  |  |
