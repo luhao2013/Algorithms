@@ -182,9 +182,17 @@
 | 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.cpp>) [Python]() | Medium | 并查集 |
 | 305 | [Number of Islands 2](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/305.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%95%B0%E9%87%8F2.cpp>) [Python]() | Hard | 并查集 |
 
-###### 双指针
+#####  双指针
 |  \#    |  Title    |  Solution  | Difficulty | Notice |
 | :--: | :--: | :--: | :--: | :--: |
+| 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0075.%20Sort%20Colors.cpp>) [Python]() | Medium | 双指针 |
+| 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0125.%20Valid%20Palindrome.cpp>) [Python]() | Medium | 双指针 |
+| 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0141.%20Linked%20List%20Cycle.cpp>) [Python]() | Easy | 双指针 |
+| 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0142.%20Linked%20List%20Cycle%20II.cpp>) [Python]() | Medium | 双指针 |
+| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/Longest-Substring-with-At-Most-Two-Distinct-Characters) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0159.%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.cpp>) [Python]() | Medium | 双指针 |
+| 283 | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0283.%20Move%20Zeroes.cpp>) [Python]() | Easy | 双指针 |
+| 287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0287.%20Find%20the%20Duplicate%20Number.cpp>) [Python]() | Medium | 双指针\****抽屉算法 |
+| 611 | [Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0611.%20Valid%20Triangle%20Number.cpp>) [Python]() | Medium | 双指针 |
 
 #### 题目列表
 
@@ -226,12 +234,20 @@
 | 34 |                                                | [C++]() [Python]() |  |  |
 | 46 | [Permutations](https://leetcode-cn.com/problems/permutations/) | [C++](https://github.com/luhao2013/Algorithms/blob/master/leetcode/046.%E5%85%A8%E6%8E%92%E5%88%97.cpp) [Python]() | Medium | DFS |
 | 47 | [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/047.%E5%85%A8%E6%8E%92%E5%88%972.cpp>) [Python]() | Medium | DFS |
+| 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0075.%20Sort%20Colors.cpp>) [Python]() | Medium | 双指针 |
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/078.%E5%AD%90%E9%9B%86.cpp>) [Python]() | Medium | DFS |
 | 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/090.%E5%AD%90%E9%9B%862.cpp>) [Python]() | Medium | DFS |
 | 34 |                                                | [C++]() [Python]() |  |  |
+| 125 | [Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0125.%20Valid%20Palindrome.cpp>) [Python]() | Medium | 双指针 |
 | 130 | [Surrounded Regions](https://leetcode-cn.com/problems/surrounded-regions/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/130.%E5%8C%85%E5%9B%B4%E5%8C%BA%E5%9F%9F.cpp>) [Python]() | Medium | 并查集 |
+| 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0141.%20Linked%20List%20Cycle.cpp>) [Python]() | Easy | 双指针 |
+| 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0142.%20Linked%20List%20Cycle%20II.cpp>) [Python]() | Medium | 双指针 |
+| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/Longest-Substring-with-At-Most-Two-Distinct-Characters) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0159.%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.cpp>) [Python]() | Medium | 双指针 |
 | 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.cpp>) [Python]() | Medium | 并查集 |
+| 283 | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0283.%20Move%20Zeroes.cpp>) [Python]() | Easy | 双指针 |
+| 287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0287.%20Find%20the%20Duplicate%20Number.cpp>) [Python]() | Medium | 双指针\****抽屉算法 |
 | 305 | [Number of Islands 2](https://leetcode-cn.com/problems/number-of-islands-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/305.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%95%B0%E9%87%8F2.cpp>) [Python]() | Hard | 并查集 |
+| 611 | [Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0611.%20Valid%20Triangle%20Number.cpp>) [Python]() | Medium | 双指针 |
 
 
 ### 三、剑指offer

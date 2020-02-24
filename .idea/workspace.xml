@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41434f03-fad3-4590-8c03-3cd05754fd4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode_c++/0141. Linked List Cycle.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_c++/0142. Linked List Cycle II.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_c++/0159. Longest Substring with At Most Two Distinct Characters.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_c++/0283. Move Zeroes.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_c++/0287. Find the Duplicate Number.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_c++/0611. Valid Triangle Number.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -175,7 +169,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode_c++/0287. Find the Duplicate Number.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
+            <state relative-caret-position="744">
               <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
             </state>
           </provider>
@@ -509,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582190593002</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="leetcode">
+      <created>1582510686111</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582510686111</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -522,10 +523,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="-7" width="782" height="838" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19337016" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09383378" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -538,8 +539,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5055249" side_tool="true" visible="true" weight="0.20549928" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49447513" visible="true" weight="0.20549928" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5053619" side_tool="true" visible="true" weight="0.20549928" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49463806" visible="true" weight="0.20549928" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -903,7 +904,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_c++/0287. Find the Duplicate Number.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
+        <state relative-caret-position="744">
           <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
         </state>
       </provider>
