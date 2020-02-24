@@ -182,7 +182,9 @@
 | 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.cpp>) [Python]() | Medium | 并查集 |
 | 305 | [Number of Islands 2](https://leetcode-cn.com/problems/number-of-islands/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode/305.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%95%B0%E9%87%8F2.cpp>) [Python]() | Hard | 并查集 |
 
-
+###### 双指针
+|  \#    |  Title    |  Solution  | Difficulty | Notice |
+| :--: | :--: | :--: | :--: | :--: |
 
 #### 题目列表
 
