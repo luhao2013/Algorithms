@@ -81,6 +81,21 @@
 
 169 [求众数 简单](https://github.com/luhao2013/Algorithms/blob/master/leetcode/169.%20%E6%B1%82%E4%BC%97%E6%95%B0%20%E7%AE%80%E5%8D%95.py)
 
+|  \#  |                            Title                             |      Solution      | Difficulty |                    Notice                     |
+| :--: | :----------------------------------------------------------: | :----------------: | :--------: | :-------------------------------------------: |
+| 104  | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [C++]() [Python]() |    Easy    |                     递归                      |
+| 110  | [Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/) | [C++]() [Python]() |    Easy    |                     递归                      |
+| 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++]() [Python]() |   Medium   |                     递归                      |
+| 124  | [Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [C++]() [Python]() |    Hard    |                   递归\****                   |
+|  98  | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [C++]() [Python]() |   Medium   |                   递归\****                   |
+| 144  | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [C++]() [Python]() |   Medium   |           递归 迭代有两种思路\****            |
+|  94  | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [C++]() [Python]() |   Medium   |                递归 迭代\****                 |
+| 145  | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [C++]() [Python]() |    Hard    | 递归 迭代\*\**** 倒序好理解，另一种思路难理解 |
+| 305  |                                                              | [C++]() [Python]() |    Easy    |                     递归                      |
+| 305  |                                                              | [C++]() [Python]() |    Easy    |                     递归                      |
+
+##### 双指针
+
 ##### DFS & BFS
 102 [二叉树的层次遍历 中等](https://github.com/luhao2013/Algorithms/blob/master/leetcode/102.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.py)
 
@@ -191,7 +206,7 @@
 | 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0142.%20Linked%20List%20Cycle%20II.cpp>) [Python]() | Medium | 双指针 |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/Longest-Substring-with-At-Most-Two-Distinct-Characters) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0159.%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.cpp>) [Python]() | Medium | 双指针 |
 | 283 | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0283.%20Move%20Zeroes.cpp>) [Python]() | Easy | 双指针 |
-| 287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0287.%20Find%20the%20Duplicate%20Number.cpp>) [Python]() | Medium | 双指针\****抽屉算法 |
+| 287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0287.%20Find%20the%20Duplicate%20Number.cpp>) [Python]() | Medium | 双指针\****抽屉算法，二分法 |
 | 611 | [Valid Triangle Number](https://leetcode-cn.com/problems/valid-triangle-number/) | [C++](<https://github.com/luhao2013/Algorithms/blob/master/leetcode_c%2B%2B/0611.%20Valid%20Triangle%20Number.cpp>) [Python]() | Medium | 双指针 |
 
 #### 题目列表
